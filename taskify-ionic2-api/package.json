@@ -1,0 +1,26 @@
+{
+  "name": "taskify-ionic2",
+  "version": "1.0.0",
+  "description": "A TODO App Ionic v2",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrgarciach/taskify-ionic2.git"
+  },
+  "keywords": [
+    "ionic2",
+    "angular2",
+    "todo"
+  ],
+  "author": "Ruy R. Garcia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rrgarciach/taskify-ionic2/issues"
+  },
+  "homepage": "https://github.com/rrgarciach/taskify-ionic2#readme"
+}
